@@ -62,13 +62,16 @@ function DropdownMenu() {
                 >
                     <div className="menu">
 
-                        <DropdownItem>My Profile</DropdownItem>
+                        <DropdownItem
+                            leftIcon={<DiceIcon/>}
+                        >
+                            Meu Perfil</DropdownItem>
                         <DropdownItem
                             leftIcon={<CogIcon />}
                             rightIcon={<ChevronIcon/>}
                             goToMenu="settings"
                             >
-                                Settings
+                                Configurações
                         </DropdownItem>
                     </div>
 
@@ -83,14 +86,9 @@ function DropdownMenu() {
                 >
                     <div className="menu">
                         <DropdownItem leftIcon={<ArrowIcon />} goToMenu="main" />                       
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
-                        <DropdownItem>Setings</DropdownItem>
+                        <DropdownItem leftIcon={<BoltIcon />}>Setting1</DropdownItem>
+                        <DropdownItem leftIcon={<BoltIcon />}>Setting2</DropdownItem>
+                        <DropdownItem leftIcon={<BoltIcon />}>Setting3</DropdownItem>
                     </div>
 
             </CSSTransition>
