@@ -1,3 +1,4 @@
+# Mock Up do novo menu do facebook
 Projeto de uma tarde que fiz para ter uma noção melhor das funcionalidades básicas da biblioteca de UI do Facebook, React. Alguns ícones utilizados nesse projeto são propriedade da Fontawesome sob tutela da Fonticons Incorporated, link para a licença https://fontawesome.com/license.
 
 # Como rodar o app?
