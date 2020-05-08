@@ -5,7 +5,7 @@ Projeto de uma tarde que fiz para ter uma noção melhor das funcionalidades bá
 ### Como rodar o app?
 1. Baixe ou clone esse repositório
 2. Instale o node.js. Link: https://nodejs.org/en/
-3. Abra seu CLI favorito e execute os comandos npm i e logo em seguida npm start.
+3. Abra o projeto em seu CLI favorito e execute os comandos npm i e logo em seguida npm start.
 
 # [EN]
 ### Facebook new menu mockup
@@ -14,4 +14,4 @@ One day project developed by me in order to learn basic functionalities from fac
 ### How to Run this App?
 1. Download or clone this repository
 2. Install node.js. Link: https://nodejs.org/en/
-3. Open your favorite CLI and execute the command npm i followed by npm start.
+3. Open the project in your favorite CLI and execute the command npm i followed by npm start.
